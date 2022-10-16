@@ -9,8 +9,11 @@
 
 #### 페이지 구조
 header -> title
+
 body -> content
+
 footer -> nav
+
 
 [부트스트랩 참고 URL](https://mdbootstrap.com)
 
