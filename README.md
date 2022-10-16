@@ -7,6 +7,10 @@
 3. 갤러리
 4. 연락처
 
+#### 페이지 구조
+header -> title
+body -> content
+footer -> nav
 
 [부트스트랩 참고 URL](https://mdbootstrap.com)
 
