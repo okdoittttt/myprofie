@@ -192,4 +192,4 @@ android:largeHeap="true"
 cordova emulate android
 </code>
 </pre>
-![실행확인](/image.png)
+![실행확인](/img/image.png)
